@@ -10,6 +10,7 @@
     github: "ptsouchlos",
     gitlab: "ptsouchlos",
     bitbucket: "DeveloperPaul123",
+    codeberg: "ptsou",
     twitter: "typstapp",
     bluesky: "ptsou.bsky.social",
     mastodon: "devpaul",
