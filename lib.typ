@@ -370,7 +370,7 @@
 /// - secondary (content): The secondary section of the header
 #let secondary-justified-header(primary, secondary) = {
   __justify_align[
-    === #primary
+   #primary
   ][
     #tertiary-right-header[#secondary]
   ]
