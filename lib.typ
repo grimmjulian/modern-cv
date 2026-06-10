@@ -970,7 +970,7 @@
     #__justify_align[
       #text(weight: "bold", size: 12pt)[#entity-info.target]
     ][
-      #text(weight: "light", style: "italic", size: 9pt)[#date]
+      #text(weight: "light",  size: 9pt)[#date]
     ]
 
     #pad(top: 0.65em, bottom: 0.65em)[
@@ -1005,7 +1005,7 @@
       ) #job-position]
   ]
   pad(..padding)[
-    #text(weight: "light", fill: color-gray)[
+    #text(weight: "light")[
       #if dear == "" [
         #linguify("dear", from: lang_data)
       ] else [
